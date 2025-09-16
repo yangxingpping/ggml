@@ -26,6 +26,7 @@ if (NOT GGML_BACKEND_DL)
     add_subdirectory(mnist)
     add_subdirectory(sam)
     add_subdirectory(simple)
+    add_subdirectory(simple2)
     add_subdirectory(magika)
 endif()
 

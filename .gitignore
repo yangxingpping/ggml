@@ -34,6 +34,8 @@ zig-cache/
 
 __pycache__/
 
+/build_win/
+
 # Model files
 ggml-model-f16.bin
 *.bat
